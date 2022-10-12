@@ -1,0 +1,841 @@
+,trip_hours,start_time,end_time,start_station_id,start_station_name,start_station_latitude,start_station_longitude,end_station_id,end_station_name,end_station_latitude,end_station_longitude,bike_id,user_type,age,member_gender,bike_share_for_all_trip
+0,14.5,2019-02-28 17:32:10.145,2019-03-01 08:01:55.975,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,13.0,Commercial St at Montgomery St,37.794231,-122.402923,4902,Customer,38.0,Male,No
+38,0.3,2019-02-28 23:31:16.139,2019-02-28 23:49:02.792,58.0,Market St at 10th St,37.776619,-122.417385,145.0,29th St at Church St,37.7436839,-122.4268059,5938,Subscriber,30.0,Female,No
+42,0.43,2019-02-28 23:20:24.089,2019-02-28 23:46:19.019,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,284.0,Yerba Buena Center for the Arts (Howard St at 3rd St),37.78487208436062,-122.40087568759915,5411,Subscriber,50.0,Male,No
+54,0.11,2019-02-28 23:30:52.471,2019-02-28 23:37:33.955,58.0,Market St at 10th St,37.776619,-122.417385,62.0,Victoria Manalo Draves Park,37.77779057034257,-122.40643188357352,5407,Subscriber,32.0,Female,No
+63,0.07,2019-02-28 23:28:42.709,2019-02-28 23:32:41.769,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,343.0,Bryant St at 2nd St,37.783171989315306,-122.39357203245164,5731,Subscriber,36.0,Male,No
+85,0.02,2019-02-28 23:17:06.483,2019-02-28 23:18:19.711,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,80.0,Townsend St at 5th St,37.77523486860597,-122.39743709564208,5012,Subscriber,27.0,Male,No
+89,0.5,2019-02-28 22:46:44.094,2019-02-28 23:16:48.092,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,9.0,Broadway at Battery St,37.79857210846256,-122.40086898207666,6581,Subscriber,31.0,Female,No
+110,0.1,2019-02-28 23:01:15.077,2019-02-28 23:07:26.459,58.0,Market St at 10th St,37.776619,-122.417385,98.0,Valencia St at 16th St,37.765052,-122.4218661,6435,Subscriber,28.0,Male,No
+114,0.1,2019-02-28 23:00:05.223,2019-02-28 23:06:21.515,58.0,Market St at 10th St,37.776619,-122.417385,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,5731,Subscriber,40.0,Male,No
+184,0.14,2019-02-28 22:30:47.173,2019-02-28 22:39:13.903,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5588,Subscriber,35.0,Male,No
+188,0.06,2019-02-28 22:34:06.686,2019-02-28 22:37:33.529,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,49.0,S Park St at 3rd St,37.7807601,-122.3949894,5840,Subscriber,27.0,Male,No
+190,0.14,2019-02-28 22:28:11.347,2019-02-28 22:36:46.389,58.0,Market St at 10th St,37.776619,-122.417385,321.0,5th St at Folsom,37.78014570345598,-122.40307085237872,5234,Subscriber,41.0,Other,No
+242,0.05,2019-02-28 22:19:39.649,2019-02-28 22:22:47.478,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,321.0,5th St at Folsom,37.78014570345598,-122.40307085237872,6214,Subscriber,33.0,Male,No
+283,0.14,2019-02-28 22:01:11.149,2019-02-28 22:09:50.543,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,11.0,Davis St at Jackson St,37.79728,-122.398436,3451,Subscriber,24.0,Male,No
+296,0.15,2019-02-28 21:57:24.567,2019-02-28 22:06:19.605,58.0,Market St at 10th St,37.776619,-122.417385,16.0,Steuart St at Market St,37.79413,-122.39443,5546,Subscriber,36.0,Male,No
+299,0.16,2019-02-28 21:55:44.278,2019-02-28 22:05:05.693,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,66.0,3rd St at Townsend St,37.77874161153677,-122.39274082710836,1502,Subscriber,45.0,Female,No
+344,0.2,2019-02-28 21:41:23.071,2019-02-28 21:53:23.178,58.0,Market St at 10th St,37.776619,-122.417385,70.0,Central Ave at Fell St,37.77331087889723,-122.44429260492323,4744,Subscriber,28.0,Male,No
+347,0.47,2019-02-28 21:23:52.571,2019-02-28 21:51:54.834,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,6290,Subscriber,31.0,Male,No
+378,0.15,2019-02-28 21:35:54.564,2019-02-28 21:45:08.454,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,11.0,Davis St at Jackson St,37.79728,-122.398436,3040,Subscriber,23.0,Male,No
+385,0.21,2019-02-28 21:31:24.939,2019-02-28 21:44:17.226,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,733,Customer,37.0,Male,No
+395,0.13,2019-02-28 21:33:32.259,2019-02-28 21:41:28.074,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,126.0,Esprit Park,37.7616343,-122.3906477,5859,Subscriber,31.0,Male,No
+426,0.65,2019-02-28 20:55:56.044,2019-02-28 21:35:13.970,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5907,Subscriber,27.0,Male,Yes
+430,0.03,2019-02-28 21:32:40.543,2019-02-28 21:34:27.740,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,5585,Subscriber,29.0,Female,No
+441,0.22,2019-02-28 21:17:58.499,2019-02-28 21:31:14.691,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,623,Subscriber,55.0,Female,No
+446,0.17,2019-02-28 21:20:20.385,2019-02-28 21:30:33.796,58.0,Market St at 10th St,37.776619,-122.417385,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,4716,Subscriber,33.0,Male,No
+458,0.09,2019-02-28 21:22:54.320,2019-02-28 21:28:02.037,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,90.0,Townsend St at 7th St,37.771058,-122.402717,2138,Subscriber,32.0,Female,No
+474,0.43,2019-02-28 20:58:27.217,2019-02-28 21:24:28.831,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,386.0,24th St at Bartlett St,37.752104984423575,-122.41972357034685,1338,Customer,35.0,Female,No
+477,0.12,2019-02-28 21:17:07.919,2019-02-28 21:24:18.403,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,16.0,Steuart St at Market St,37.79413,-122.39443,6210,Subscriber,36.0,Male,No
+486,0.21,2019-02-28 21:10:17.662,2019-02-28 21:22:51.155,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,76.0,McCoppin St at Valencia St,37.77166246221617,-122.42242321372034,6419,Subscriber,30.0,Female,No
+505,0.1,2019-02-28 21:14:29.897,2019-02-28 21:20:22.700,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,27.0,Beale St at Harrison St,37.7880593,-122.3918648,5108,Subscriber,64.0,Male,No
+518,0.26,2019-02-28 21:02:47.545,2019-02-28 21:18:27.171,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,55.0,Webster St at Grove St,37.7770527,-122.4295585,793,Subscriber,28.0,Male,No
+519,0.13,2019-02-28 21:10:42.353,2019-02-28 21:18:23.518,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5299,Subscriber,43.0,Male,No
+526,0.09,2019-02-28 21:11:26.978,2019-02-28 21:17:02.387,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,10.0,Washington St at Kearny St,37.79539293725452,-122.4047702550888,6168,Subscriber,32.0,Male,No
+530,0.09,2019-02-28 21:10:53.023,2019-02-28 21:16:02.716,58.0,Market St at 10th St,37.776619,-122.417385,62.0,Victoria Manalo Draves Park,37.77779057034257,-122.40643188357352,4960,Subscriber,28.0,Male,No
+534,0.28,2019-02-28 20:58:51.575,2019-02-28 21:15:37.772,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,125.0,20th St at Bryant St,37.7592005,-122.409851,2628,Subscriber,27.0,Male,No
+556,0.63,2019-02-28 20:34:11.583,2019-02-28 21:12:04.454,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,120.0,Mission Dolores Park,37.7614205,-122.4264353,6252,Subscriber,24.0,Male,No
+562,0.22,2019-02-28 20:56:48.270,2019-02-28 21:10:05.143,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,115.0,Jackson Playground,37.7650259,-122.3987734,5376,Subscriber,37.0,Male,No
+564,0.18,2019-02-28 20:59:22.225,2019-02-28 21:10:02.629,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,73.0,Pierce St at Haight St,37.7717933,-122.4337079,4827,Subscriber,27.0,Female,No
+567,0.07,2019-02-28 21:05:05.562,2019-02-28 21:09:10.613,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,323.0,Broadway at Kearny,37.79801364395978,-122.40595042705534,6108,Subscriber,31.0,Male,No
+569,0.25,2019-02-28 20:54:11.919,2019-02-28 21:09:01.301,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,116.0,Mississippi St at 17th St,37.7648022,-122.3947713,4762,Subscriber,27.0,Male,No
+606,0.06,2019-02-28 20:57:41.739,2019-02-28 21:01:31.317,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,47.0,4th St at Harrison St,37.78095459960753,-122.39974915981291,5257,Subscriber,43.0,Female,No
+610,0.07,2019-02-28 20:56:59.112,2019-02-28 21:00:57.439,58.0,Market St at 10th St,37.776619,-122.417385,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,6456,Subscriber,31.0,Male,No
+614,0.12,2019-02-28 20:52:54.742,2019-02-28 21:00:12.399,58.0,Market St at 10th St,37.776619,-122.417385,285.0,Webster St at O'Farrell St,37.78352083526095,-122.43115782737732,5228,Subscriber,26.0,Female,No
+615,0.15,2019-02-28 20:51:01.318,2019-02-28 21:00:09.832,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,75.0,Market St at Franklin St,37.7737932060887,-122.42123901844025,3614,Subscriber,32.0,Male,No
+620,0.09,2019-02-28 20:53:59.644,2019-02-28 20:59:22.469,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,4744,Subscriber,34.0,Male,No
+625,0.11,2019-02-28 20:52:11.953,2019-02-28 20:58:56.136,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,4827,Subscriber,30.0,Male,No
+626,0.27,2019-02-28 20:42:04.045,2019-02-28 20:58:29.917,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,109.0,17th St at Valencia St,37.7633158,-122.4219039,2473,Subscriber,28.0,Female,No
+633,0.85,2019-02-28 20:06:13.030,2019-02-28 20:57:22.225,58.0,Market St at 10th St,37.776619,-122.417385,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,6413,Subscriber,31.0,Male,No
+640,0.07,2019-02-28 20:51:56.099,2019-02-28 20:56:09.522,58.0,Market St at 10th St,37.776619,-122.417385,99.0,Folsom St at 15th St,37.7670373,-122.4154425,5867,Subscriber,22.0,Male,No
+651,0.14,2019-02-28 20:46:30.272,2019-02-28 20:54:41.905,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,33.0,Golden Gate Ave at Hyde St,37.7816495,-122.4154077,5934,Subscriber,34.0,Male,No
+663,0.25,2019-02-28 20:37:47.510,2019-02-28 20:53:02.202,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,5943,Customer,28.0,Male,No
+681,0.19,2019-02-28 20:38:53.288,2019-02-28 20:50:27.638,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,17.0,Embarcadero BART Station (Beale St at Market St),37.792251,-122.397086,5469,Subscriber,39.0,Male,No
+688,0.62,2019-02-28 20:11:36.024,2019-02-28 20:49:06.262,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,28.0,The Embarcadero at Bryant St,37.78716801474664,-122.38809792330358,2868,Subscriber,52.0,Male,No
+727,0.1,2019-02-28 20:36:41.057,2019-02-28 20:42:58.586,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,343.0,Bryant St at 2nd St,37.783171989315306,-122.39357203245164,1113,Subscriber,30.0,Female,No
+734,0.1,2019-02-28 20:34:51.646,2019-02-28 20:41:05.062,58.0,Market St at 10th St,37.776619,-122.417385,97.0,14th St at Mission St,37.7682646,-122.4201102,5253,Customer,38.0,Male,No
+743,0.23,2019-02-28 20:25:53.830,2019-02-28 20:39:53.854,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,95.0,Sanchez St at 15th St,37.7662185,-122.4310597,6234,Customer,34.0,Male,No
+752,0.11,2019-02-28 20:31:08.123,2019-02-28 20:37:58.082,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,5235,Subscriber,31.0,Male,No
+779,10.05,2019-02-28 10:30:03.377,2019-02-28 20:33:14.228,58.0,Market St at 10th St,37.776619,-122.417385,375.0,Grove St at Masonic Ave,37.77483629413345,-122.44654566049576,5465,Subscriber,31.0,Female,No
+791,0.17,2019-02-28 20:20:34.397,2019-02-28 20:30:58.483,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,5248,Subscriber,54.0,Female,No
+797,0.26,2019-02-28 20:14:11.876,2019-02-28 20:29:52.047,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,130.0,22nd St Caltrain Station,37.75728840784085,-122.3920512199402,4923,Customer,36.0,Male,No
+800,0.21,2019-02-28 20:16:47.153,2019-02-28 20:29:19.395,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,91.0,Berry St at King St,37.771762110313176,-122.39843755960464,361,Subscriber,27.0,Female,No
+802,0.12,2019-02-28 20:22:08.222,2019-02-28 20:29:14.399,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,1511,Subscriber,24.0,Male,No
+818,0.15,2019-02-28 20:17:52.369,2019-02-28 20:26:41.616,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,47.0,4th St at Harrison St,37.78095459960753,-122.39974915981291,1834,Subscriber,50.0,Male,Yes
+820,0.27,2019-02-28 20:10:12.818,2019-02-28 20:26:24.780,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,130.0,22nd St Caltrain Station,37.75728840784085,-122.3920512199402,4610,Subscriber,54.0,Male,No
+830,0.28,2019-02-28 20:08:14.565,2019-02-28 20:25:07.212,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,39.0,Scott St at Golden Gate Ave,37.7789994,-122.4368608,5134,Subscriber,35.0,Male,No
+839,0.34,2019-02-28 20:02:45.312,2019-02-28 20:22:59.155,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,134.0,Valencia St at 24th St,37.7524278,-122.4206278,4832,Subscriber,54.0,Male,No
+840,0.28,2019-02-28 20:06:19.121,2019-02-28 20:22:55.601,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,130.0,22nd St Caltrain Station,37.75728840784085,-122.3920512199402,6291,Subscriber,29.0,Male,No
+842,0.23,2019-02-28 20:08:45.530,2019-02-28 20:22:48.118,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,369.0,Hyde St at Post St,37.78734902316596,-122.41665109992026,6297,Subscriber,25.0,Male,No
+860,0.14,2019-02-28 20:12:01.230,2019-02-28 20:20:39.955,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,817,Subscriber,33.0,Male,No
+888,0.18,2019-02-28 20:07:11.170,2019-02-28 20:18:01.046,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,789,Subscriber,23.0,Female,No
+899,0.21,2019-02-28 20:03:43.716,2019-02-28 20:16:21.130,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,6523,Subscriber,32.0,Male,No
+931,0.22,2019-02-28 19:58:40.317,2019-02-28 20:11:48.439,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,97.0,14th St at Mission St,37.7682646,-122.4201102,5845,Subscriber,32.0,Female,No
+933,0.33,2019-02-28 19:51:36.594,2019-02-28 20:11:22.469,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,375.0,Grove St at Masonic Ave,37.77483629413345,-122.44654566049576,4817,Subscriber,32.0,Male,No
+943,0.24,2019-02-28 19:55:50.550,2019-02-28 20:10:05.887,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,125.0,20th St at Bryant St,37.7592005,-122.409851,4921,Subscriber,37.0,Male,No
+965,0.26,2019-02-28 19:51:30.522,2019-02-28 20:07:07.475,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,365.0,Turk St at Fillmore St,37.78045005996349,-122.43194639682768,4986,Subscriber,36.0,Female,No
+966,0.23,2019-02-28 19:53:16.520,2019-02-28 20:07:05.827,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,4934,Subscriber,35.0,Male,No
+967,0.04,2019-02-28 20:04:44.087,2019-02-28 20:06:59.434,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,92.0,Mission Bay Kids Park,37.772300631747626,-122.3930275440216,6288,Subscriber,28.0,Male,No
+968,0.2,2019-02-28 19:54:58.282,2019-02-28 20:06:57.908,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,101.0,15th St at Potrero Ave,37.76707850458367,-122.40735858678818,5133,Customer,29.0,Male,No
+971,0.29,2019-02-28 19:48:48.187,2019-02-28 20:06:27.209,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,56.0,Koshland Park,37.77341396997343,-122.427316904068,6192,Subscriber,25.0,Female,No
+973,0.16,2019-02-28 19:56:14.613,2019-02-28 20:06:08.320,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,28.0,The Embarcadero at Bryant St,37.78716801474664,-122.38809792330358,2107,Subscriber,32.0,Male,No
+985,0.22,2019-02-28 19:50:57.608,2019-02-28 20:04:19.601,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,74.0,Laguna St at Hayes St,37.776434819204745,-122.42624402046204,5343,Subscriber,42.0,Male,No
+991,0.07,2019-02-28 19:59:19.436,2019-02-28 20:03:28.393,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,16.0,Steuart St at Market St,37.79413,-122.39443,1547,Subscriber,54.0,Male,No
+999,0.19,2019-02-28 19:51:31.544,2019-02-28 20:02:48.454,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,92.0,Mission Bay Kids Park,37.772300631747626,-122.3930275440216,3642,Subscriber,33.0,Female,No
+1005,0.16,2019-02-28 19:52:18.256,2019-02-28 20:01:45.702,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,124.0,19th St at Florida St,37.7604469,-122.410807,4730,Subscriber,53.0,Male,No
+1007,0.17,2019-02-28 19:51:03.961,2019-02-28 20:01:19.162,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,5366,Subscriber,28.0,Female,No
+1019,0.07,2019-02-28 19:55:24.131,2019-02-28 19:59:51.201,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,343.0,Bryant St at 2nd St,37.783171989315306,-122.39357203245164,6352,Subscriber,56.0,Male,No
+1027,0.08,2019-02-28 19:54:15.725,2019-02-28 19:59:01.914,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,8.0,The Embarcadero at Vallejo St,37.799953,-122.398525,6139,Subscriber,36.0,Male,No
+1051,0.19,2019-02-28 19:45:31.242,2019-02-28 19:56:40.713,58.0,Market St at 10th St,37.776619,-122.417385,144.0,Precita Park,37.7472996,-122.4114029,5964,Subscriber,33.0,Male,No
+1058,0.09,2019-02-28 19:50:39.735,2019-02-28 19:55:50.108,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,36.0,Folsom St at 3rd St,37.78383,-122.39887,4344,Subscriber,34.0,Male,No
+1059,0.15,2019-02-28 19:46:54.740,2019-02-28 19:55:43.072,58.0,Market St at 10th St,37.776619,-122.417385,96.0,Dolores St at 15th St,37.7662102,-122.4266136,6129,Subscriber,33.0,Female,No
+1060,0.3,2019-02-28 19:37:28.188,2019-02-28 19:55:40.172,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,223.0,16th St Mission BART Station 2,37.7647652154977,-122.42009103298186,5941,Subscriber,27.0,Female,No
+1072,0.05,2019-02-28 19:51:35.594,2019-02-28 19:54:45.127,58.0,Market St at 10th St,37.776619,-122.417385,33.0,Golden Gate Ave at Hyde St,37.7816495,-122.4154077,5200,Subscriber,28.0,Male,No
+1084,0.25,2019-02-28 19:39:25.531,2019-02-28 19:54:09.114,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,345.0,Hubbell St at 16th St,37.766482696439496,-122.39827930927277,1220,Subscriber,34.0,Male,No
+1086,0.31,2019-02-28 19:35:37.584,2019-02-28 19:54:01.417,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,381.0,20th St at Dolores St,37.75823842417928,-122.4260938167572,5965,Subscriber,45.0,Male,No
+1093,0.27,2019-02-28 19:36:13.721,2019-02-28 19:52:40.919,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,370.0,Jones St at Post St,37.7873267660624,-122.41327822208405,4728,Subscriber,34.0,Male,No
+1102,0.17,2019-02-28 19:41:26.217,2019-02-28 19:51:49.975,58.0,Market St at 10th St,37.776619,-122.417385,53.0,Grove St at Divisadero,37.775946,-122.4377775,4958,Subscriber,29.0,Male,No
+1106,0.24,2019-02-28 19:36:45.231,2019-02-28 19:50:57.065,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,74.0,Laguna St at Hayes St,37.776434819204745,-122.42624402046204,4567,Subscriber,37.0,Other,No
+1113,0.15,2019-02-28 19:41:18.904,2019-02-28 19:50:16.693,58.0,Market St at 10th St,37.776619,-122.417385,53.0,Grove St at Divisadero,37.775946,-122.4377775,5848,Subscriber,27.0,Female,No
+1115,0.09,2019-02-28 19:44:44.309,2019-02-28 19:49:57.811,58.0,Market St at 10th St,37.776619,-122.417385,55.0,Webster St at Grove St,37.7770527,-122.4295585,6249,Subscriber,27.0,Female,No
+1129,0.16,2019-02-28 19:38:15.947,2019-02-28 19:47:51.851,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4934,Subscriber,40.0,Female,No
+1139,0.65,2019-02-28 19:07:21.184,2019-02-28 19:46:27.049,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,66.0,3rd St at Townsend St,37.77874161153677,-122.39274082710836,5870,Customer,42.0,Male,No
+1154,0.15,2019-02-28 19:35:38.295,2019-02-28 19:44:51.201,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,336.0,Potrero Ave and Mariposa St,37.76328094058097,-122.4073773622513,4805,Subscriber,35.0,Female,No
+1169,0.14,2019-02-28 19:34:44.731,2019-02-28 19:42:51.361,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,4778,Subscriber,33.0,Female,No
+1176,0.41,2019-02-28 19:17:32.459,2019-02-28 19:42:17.329,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,134.0,Valencia St at 24th St,37.7524278,-122.4206278,2330,Subscriber,36.0,Other,No
+1183,0.61,2019-02-28 19:04:49.255,2019-02-28 19:41:24.563,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,146.0,30th St at San Jose Ave,37.7423139,-122.4231805,5822,Subscriber,41.0,Male,No
+1191,0.12,2019-02-28 19:33:29.540,2019-02-28 19:40:26.206,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,6633,Subscriber,54.0,Female,No
+1219,0.39,2019-02-28 19:13:35.925,2019-02-28 19:37:04.193,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,119.0,18th St at Noe St,37.7610471,-122.4326417,6111,Subscriber,31.0,Male,No
+1223,0.2,2019-02-28 19:25:19.173,2019-02-28 19:37:01.195,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5943,Customer,63.0,Male,No
+1224,0.34,2019-02-28 19:16:34.163,2019-02-28 19:36:57.342,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6523,Subscriber,58.0,Male,No
+1232,0.29,2019-02-28 19:18:43.533,2019-02-28 19:36:21.459,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,223.0,16th St Mission BART Station 2,37.7647652154977,-122.42009103298186,4404,Subscriber,38.0,Female,No
+1233,0.11,2019-02-28 19:29:22.683,2019-02-28 19:36:10.436,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,50.0,2nd St at Townsend St,37.780526,-122.390288,4930,Subscriber,34.0,Female,No
+1245,0.07,2019-02-28 19:31:28.148,2019-02-28 19:35:37.198,58.0,Market St at 10th St,37.776619,-122.417385,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5533,Subscriber,30.0,Male,No
+1272,0.27,2019-02-28 19:16:45.642,2019-02-28 19:32:56.294,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,115.0,Jackson Playground,37.7650259,-122.3987734,6234,Subscriber,48.0,Male,No
+1295,0.14,2019-02-28 19:21:48.449,2019-02-28 19:30:26.454,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,3381,Subscriber,44.0,Male,No
+1314,0.3,2019-02-28 19:10:02.506,2019-02-28 19:28:09.678,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,53.0,Grove St at Divisadero,37.775946,-122.4377775,5824,Subscriber,39.0,Male,No
+1319,0.3,2019-02-28 19:10:05.288,2019-02-28 19:27:52.747,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,53.0,Grove St at Divisadero,37.775946,-122.4377775,6120,Subscriber,31.0,Male,No
+1326,0.24,2019-02-28 19:12:40.100,2019-02-28 19:26:57.590,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,4.0,Cyril Magnin St at Ellis St,37.78588062694133,-122.4089150084319,4751,Subscriber,23.0,Male,No
+1328,0.23,2019-02-28 19:13:01.014,2019-02-28 19:26:47.382,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,4.0,Cyril Magnin St at Ellis St,37.78588062694133,-122.4089150084319,6343,Subscriber,24.0,Female,No
+1341,0.24,2019-02-28 19:10:53.577,2019-02-28 19:25:31.754,58.0,Market St at 10th St,37.776619,-122.417385,27.0,Beale St at Harrison St,37.7880593,-122.3918648,6497,Subscriber,32.0,Male,No
+1343,0.38,2019-02-28 19:02:33.643,2019-02-28 19:25:16.561,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,97.0,14th St at Mission St,37.7682646,-122.4201102,48,Subscriber,68.0,Male,No
+1351,0.2,2019-02-28 19:12:45.664,2019-02-28 19:24:29.916,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,96.0,Dolores St at 15th St,37.7662102,-122.4266136,5756,Subscriber,28.0,Male,No
+1356,0.16,2019-02-28 19:14:40.123,2019-02-28 19:24:01.450,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,6192,Subscriber,68.0,Male,No
+1370,0.07,2019-02-28 19:19:03.757,2019-02-28 19:23:14.210,58.0,Market St at 10th St,37.776619,-122.417385,89.0,Division St at Potrero Ave,37.76921786152374,-122.40764558315276,4733,Subscriber,33.0,Male,No
+1371,0.18,2019-02-28 19:12:34.873,2019-02-28 19:23:13.007,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,3066,Subscriber,48.0,Male,No
+1378,0.13,2019-02-28 19:14:43.951,2019-02-28 19:22:36.733,58.0,Market St at 10th St,37.776619,-122.417385,98.0,Valencia St at 16th St,37.765052,-122.4218661,4972,Subscriber,30.0,Female,No
+1401,0.16,2019-02-28 19:11:08.391,2019-02-28 19:20:50.583,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4749,Subscriber,34.0,Male,No
+1417,0.39,2019-02-28 18:54:58.353,2019-02-28 19:18:31.559,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,285.0,Webster St at O'Farrell St,37.78352083526095,-122.43115782737732,5474,Subscriber,65.0,Male,No
+1425,0.05,2019-02-28 19:14:34.413,2019-02-28 19:17:19.334,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,19.0,Post St at Kearny St,37.788975,-122.403452,1883,Subscriber,62.0,Male,No
+1426,0.87,2019-02-28 18:24:54.737,2019-02-28 19:17:13.432,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,5600,Customer,24.0,Female,No
+1429,0.89,2019-02-28 18:23:40.213,2019-02-28 19:16:57.540,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,4964,Customer,23.0,Male,No
+1432,0.11,2019-02-28 19:09:44.294,2019-02-28 19:16:23.280,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,2321,Subscriber,37.0,Other,No
+1434,0.2,2019-02-28 19:04:06.301,2019-02-28 19:16:16.683,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,86.0,Market St at Dolores St,37.7693053,-122.4268256,6446,Subscriber,35.0,Male,No
+1439,0.15,2019-02-28 19:07:07.884,2019-02-28 19:15:58.457,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,14.0,Clay St at Battery St,37.795001,-122.39997,1907,Subscriber,26.0,Male,No
+1440,0.37,2019-02-28 18:53:39.421,2019-02-28 19:15:55.925,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,147.0,29th St at Tiffany Ave,37.7440667,-122.4214722,5957,Subscriber,29.0,Male,No
+1446,0.34,2019-02-28 18:54:52.917,2019-02-28 19:15:29.437,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,147.0,29th St at Tiffany Ave,37.7440667,-122.4214722,6153,Customer,30.0,Male,No
+1450,0.2,2019-02-28 19:02:49.502,2019-02-28 19:15:04.075,58.0,Market St at 10th St,37.776619,-122.417385,369.0,Hyde St at Post St,37.78734902316596,-122.41665109992026,6327,Subscriber,43.0,Male,No
+1461,0.11,2019-02-28 19:07:22.408,2019-02-28 19:13:55.463,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,49.0,S Park St at 3rd St,37.7807601,-122.3949894,1434,Subscriber,47.0,Male,No
+1470,0.08,2019-02-28 19:08:07.625,2019-02-28 19:13:12.984,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,101.0,15th St at Potrero Ave,37.76707850458367,-122.40735858678818,4715,Subscriber,28.0,Male,No
+1474,0.14,2019-02-28 19:04:25.373,2019-02-28 19:12:50.042,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,66.0,3rd St at Townsend St,37.77874161153677,-122.39274082710836,5569,Subscriber,38.0,Male,No
+1498,0.16,2019-02-28 19:01:11.521,2019-02-28 19:11:00.479,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,98.0,Valencia St at 16th St,37.765052,-122.4218661,5428,Subscriber,40.0,Male,No
+1501,0.33,2019-02-28 18:51:05.745,2019-02-28 19:10:48.076,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,6070,Customer,35.0,Male,No
+1512,0.34,2019-02-28 18:49:23.021,2019-02-28 19:09:52.591,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,126.0,Esprit Park,37.7616343,-122.3906477,6123,Customer,43.0,Female,No
+1515,0.24,2019-02-28 18:54:45.983,2019-02-28 19:09:15.029,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,9.0,Broadway at Battery St,37.79857210846256,-122.40086898207666,5226,Subscriber,38.0,Male,No
+1526,0.24,2019-02-28 18:54:26.814,2019-02-28 19:08:39.214,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,5091,Subscriber,70.0,Male,No
+1527,0.36,2019-02-28 18:46:59.639,2019-02-28 19:08:21.422,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,371.0,Lombard St at Columbus Ave,37.80274615250053,-122.41357862949371,6146,Subscriber,38.0,Male,No
+1528,0.28,2019-02-28 18:51:27.377,2019-02-28 19:08:15.551,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,129.0,Harrison St at 20th St,37.758862,-122.412544,5568,Customer,34.0,Male,No
+1578,0.21,2019-02-28 18:52:00.267,2019-02-28 19:04:20.701,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,126.0,Esprit Park,37.7616343,-122.3906477,6148,Subscriber,38.0,Male,No
+1586,0.19,2019-02-28 18:52:11.054,2019-02-28 19:03:34.528,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,26.0,1st St at Folsom St,37.78729,-122.39438,4976,Subscriber,74.0,Male,No
+1589,0.18,2019-02-28 18:52:45.027,2019-02-28 19:03:25.773,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,3454,Subscriber,43.0,Male,No
+1595,0.16,2019-02-28 18:53:18.606,2019-02-28 19:02:55.515,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,78.0,Folsom St at 9th St,37.7737172,-122.4116467,6318,Subscriber,33.0,Male,No
+1601,0.13,2019-02-28 18:54:39.849,2019-02-28 19:02:13.528,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,321.0,5th St at Folsom,37.78014570345598,-122.40307085237872,6337,Subscriber,35.0,Male,No
+1607,0.24,2019-02-28 18:47:13.129,2019-02-28 19:01:45.298,58.0,Market St at 10th St,37.776619,-122.417385,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,1502,Subscriber,53.0,Male,No
+1609,0.26,2019-02-28 18:45:46.586,2019-02-28 19:01:32.243,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,95.0,Sanchez St at 15th St,37.7662185,-122.4310597,5558,Customer,31.0,Male,No
+1612,0.11,2019-02-28 18:55:02.867,2019-02-28 19:01:26.993,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,343.0,Bryant St at 2nd St,37.783171989315306,-122.39357203245164,6234,Subscriber,30.0,Male,No
+1614,0.25,2019-02-28 18:46:38.411,2019-02-28 19:01:26.617,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,58.0,Market St at 10th St,37.776619,-122.417385,5964,Customer,38.0,Male,No
+1615,0.19,2019-02-28 18:49:51.517,2019-02-28 19:01:24.690,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,17.0,Embarcadero BART Station (Beale St at Market St),37.792251,-122.397086,4944,Subscriber,38.0,Male,No
+1618,0.13,2019-02-28 18:53:15.924,2019-02-28 19:01:20.790,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,6313,Subscriber,30.0,Male,No
+1620,0.16,2019-02-28 18:51:39.243,2019-02-28 19:01:15.901,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,58.0,Market St at 10th St,37.776619,-122.417385,5533,Subscriber,24.0,Male,No
+1661,0.29,2019-02-28 18:41:02.415,2019-02-28 18:58:10.696,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,129.0,Harrison St at 20th St,37.758862,-122.412544,5276,Subscriber,38.0,Female,No
+1667,0.18,2019-02-28 18:47:16.946,2019-02-28 18:57:59.103,58.0,Market St at 10th St,37.776619,-122.417385,107.0,17th St at Dolores St,37.7630152,-122.4264968,5113,Subscriber,39.0,Male,No
+1681,0.06,2019-02-28 18:53:50.747,2019-02-28 18:57:13.618,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,64.0,5th St at Brannan St,37.7767539,-122.3990176,4997,Subscriber,32.0,Male,No
+1688,0.32,2019-02-28 18:37:53.980,2019-02-28 18:56:53.470,58.0,Market St at 10th St,37.776619,-122.417385,132.0,24th St at Chattanooga St,37.7518194,-122.4266139,5442,Subscriber,33.0,Female,No
+1689,0.18,2019-02-28 18:45:51.893,2019-02-28 18:56:50.526,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,42.0,San Francisco City Hall (Polk St at Grove St),37.77865,-122.41823,6101,Subscriber,28.0,Male,No
+1705,0.23,2019-02-28 18:41:45.290,2019-02-28 18:55:41.039,58.0,Market St at 10th St,37.776619,-122.417385,50.0,2nd St at Townsend St,37.780526,-122.390288,6225,Subscriber,24.0,Male,No
+1707,0.24,2019-02-28 18:41:14.128,2019-02-28 18:55:21.124,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,115.0,Jackson Playground,37.7650259,-122.3987734,5847,Subscriber,33.0,Male,No
+1712,0.07,2019-02-28 18:51:00.169,2019-02-28 18:55:05.740,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,90.0,Townsend St at 7th St,37.771058,-122.402717,5498,Subscriber,33.0,Female,No
+1716,0.12,2019-02-28 18:47:41.099,2019-02-28 18:54:46.742,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,78.0,Folsom St at 9th St,37.7737172,-122.4116467,5281,Subscriber,28.0,Male,No
+1727,0.57,2019-02-28 18:19:45.692,2019-02-28 18:53:59.465,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,5438,Subscriber,28.0,Male,No
+1728,0.19,2019-02-28 18:42:35.102,2019-02-28 18:53:59.084,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,285.0,Webster St at O'Farrell St,37.78352083526095,-122.43115782737732,4969,Subscriber,32.0,Male,No
+1740,0.2,2019-02-28 18:41:05.566,2019-02-28 18:53:08.760,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,112.0,Harrison St at 17th St,37.7638471,-122.4130036,6633,Subscriber,33.0,Male,No
+1743,0.18,2019-02-28 18:42:32.573,2019-02-28 18:53:03.217,58.0,Market St at 10th St,37.776619,-122.417385,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,5949,Subscriber,40.0,Male,No
+1752,0.07,2019-02-28 18:48:02.015,2019-02-28 18:52:30.293,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,4337,Subscriber,43.0,Male,No
+1770,0.15,2019-02-28 18:41:57.623,2019-02-28 18:50:44.449,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5498,Subscriber,37.0,Female,No
+1771,0.05,2019-02-28 18:47:35.186,2019-02-28 18:50:44.063,58.0,Market St at 10th St,37.776619,-122.417385,75.0,Market St at Franklin St,37.7737932060887,-122.42123901844025,2560,Subscriber,34.0,Male,No
+1774,0.16,2019-02-28 18:41:03.483,2019-02-28 18:50:38.586,58.0,Market St at 10th St,37.776619,-122.417385,90.0,Townsend St at 7th St,37.771058,-122.402717,4970,Subscriber,28.0,Male,No
+1799,0.57,2019-02-28 18:14:54.538,2019-02-28 18:49:17.919,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,13.0,Commercial St at Montgomery St,37.794231,-122.402923,4826,Customer,55.0,Male,No
+1800,0.4,2019-02-28 18:25:12.218,2019-02-28 18:49:13.808,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,115.0,Jackson Playground,37.7650259,-122.3987734,4638,Subscriber,54.0,Other,No
+1818,0.17,2019-02-28 18:37:35.018,2019-02-28 18:47:57.961,58.0,Market St at 10th St,37.776619,-122.417385,122.0,19th St at Mission St,37.760299,-122.418892,5322,Subscriber,38.0,Female,No
+1824,0.09,2019-02-28 18:42:19.793,2019-02-28 18:47:40.774,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,114.0,Rhode Island St at 17th St,37.7644783,-122.4025701,4656,Subscriber,35.0,Male,No
+1829,0.16,2019-02-28 18:37:42.030,2019-02-28 18:47:24.257,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,75.0,Market St at Franklin St,37.7737932060887,-122.42123901844025,6560,Subscriber,29.0,Male,No
+1843,0.27,2019-02-28 18:30:26.621,2019-02-28 18:46:41.363,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,355.0,23rd St at Tennessee St,37.755367132158526,-122.38879501819608,5804,Subscriber,38.0,Male,No
+1847,0.08,2019-02-28 18:41:35.474,2019-02-28 18:46:23.632,58.0,Market St at 10th St,37.776619,-122.417385,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,6220,Subscriber,68.0,Male,No
+1874,0.16,2019-02-28 18:35:03.391,2019-02-28 18:44:21.905,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,75.0,Market St at Franklin St,37.7737932060887,-122.42123901844025,5314,Subscriber,36.0,Male,No
+1882,0.21,2019-02-28 18:31:18.003,2019-02-28 18:43:58.923,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,61.0,Howard St at 8th St,37.7765126,-122.4113061,5337,Subscriber,51.0,Male,No
+1897,0.17,2019-02-28 18:32:51.249,2019-02-28 18:42:58.588,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,364.0,China Basin St at 3rd St,37.7719996,-122.3899698,6111,Subscriber,52.0,Female,No
+1918,0.29,2019-02-28 18:24:05.834,2019-02-28 18:41:44.106,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,115.0,Jackson Playground,37.7650259,-122.3987734,5120,Subscriber,36.0,Male,No
+1950,0.24,2019-02-28 18:25:31.143,2019-02-28 18:40:04.847,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,4773,Subscriber,34.0,Female,No
+1980,0.17,2019-02-28 18:27:38.843,2019-02-28 18:38:00.538,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6414,Subscriber,40.0,Male,No
+2002,0.11,2019-02-28 18:29:50.716,2019-02-28 18:36:34.606,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,61.0,Howard St at 8th St,37.7765126,-122.4113061,6258,Subscriber,65.0,Male,No
+2003,0.1,2019-02-28 18:30:20.067,2019-02-28 18:36:28.962,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,66.0,3rd St at Townsend St,37.77874161153677,-122.39274082710836,4767,Subscriber,41.0,Male,No
+2009,0.07,2019-02-28 18:32:05.088,2019-02-28 18:36:12.430,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,49.0,S Park St at 3rd St,37.7807601,-122.3949894,5248,Subscriber,32.0,Female,No
+2012,0.31,2019-02-28 18:17:12.965,2019-02-28 18:35:57.412,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,2706,Customer,31.0,Male,No
+2018,0.2,2019-02-28 18:24:09.126,2019-02-28 18:35:51.189,58.0,Market St at 10th St,37.776619,-122.417385,369.0,Hyde St at Post St,37.78734902316596,-122.41665109992026,4610,Subscriber,37.0,Female,No
+2019,0.16,2019-02-28 18:26:10.445,2019-02-28 18:35:49.926,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,27.0,Beale St at Harrison St,37.7880593,-122.3918648,5544,Subscriber,49.0,Male,No
+2029,0.06,2019-02-28 18:32:09.214,2019-02-28 18:35:34.566,58.0,Market St at 10th St,37.776619,-122.417385,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,4719,Subscriber,33.0,Male,No
+2031,0.06,2019-02-28 18:31:48.667,2019-02-28 18:35:28.762,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,50.0,2nd St at Townsend St,37.780526,-122.390288,5801,Subscriber,34.0,Male,No
+2033,0.14,2019-02-28 18:27:07.015,2019-02-28 18:35:21.345,58.0,Market St at 10th St,37.776619,-122.417385,285.0,Webster St at O'Farrell St,37.78352083526095,-122.43115782737732,5489,Subscriber,36.0,Male,No
+2034,0.1,2019-02-28 18:29:23.277,2019-02-28 18:35:20.349,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,6633,Subscriber,58.0,Female,No
+2042,0.23,2019-02-28 18:21:24.920,2019-02-28 18:35:02.490,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,58.0,Market St at 10th St,37.776619,-122.417385,4970,Subscriber,28.0,Male,No
+2045,0.15,2019-02-28 18:25:51.566,2019-02-28 18:34:43.468,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5314,Customer,33.0,Male,No
+2057,0.2,2019-02-28 18:21:42.666,2019-02-28 18:33:52.961,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,122.0,19th St at Mission St,37.760299,-122.418892,6568,Subscriber,32.0,Female,No
+2068,0.28,2019-02-28 18:16:20.216,2019-02-28 18:33:24.549,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,123.0,Folsom St at 19th St,37.7605936,-122.4148171,6114,Subscriber,33.0,Male,No
+2069,0.28,2019-02-28 18:16:30.955,2019-02-28 18:33:22.391,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,123.0,Folsom St at 19th St,37.7605936,-122.4148171,6573,Customer,39.0,Male,No
+2073,0.24,2019-02-28 18:18:59.378,2019-02-28 18:33:11.556,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,123.0,Folsom St at 19th St,37.7605936,-122.4148171,5041,Subscriber,32.0,Male,No
+2074,0.16,2019-02-28 18:23:22.101,2019-02-28 18:33:11.485,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,92.0,Mission Bay Kids Park,37.772300631747626,-122.3930275440216,5502,Subscriber,42.0,Male,No
+2112,0.12,2019-02-28 18:24:02.041,2019-02-28 18:31:28.134,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,24.0,Spear St at Folsom St,37.7896767,-122.3904285,5307,Subscriber,35.0,Male,No
+2128,0.22,2019-02-28 18:16:47.995,2019-02-28 18:30:14.092,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,130.0,22nd St Caltrain Station,37.75728840784085,-122.3920512199402,6095,Subscriber,37.0,Male,No
+2131,0.07,2019-02-28 18:25:35.436,2019-02-28 18:29:59.684,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,25.0,Howard St at 2nd St,37.787521780456245,-122.39740490913393,5909,Subscriber,30.0,Male,No
+2150,0.23,2019-02-28 18:14:55.853,2019-02-28 18:28:55.407,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,92.0,Mission Bay Kids Park,37.772300631747626,-122.3930275440216,4949,Subscriber,43.0,Male,No
+2153,0.18,2019-02-28 18:18:16.800,2019-02-28 18:28:49.176,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,113.0,Franklin Square,37.764555,-122.410345,5774,Subscriber,34.0,Male,No
+2159,0.29,2019-02-28 18:11:22.214,2019-02-28 18:28:35.675,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,106.0,Sanchez St at 17th St,37.7632417,-122.4306746,5537,Subscriber,28.0,Male,No
+2174,0.09,2019-02-28 18:22:09.721,2019-02-28 18:27:35.021,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,62.0,Victoria Manalo Draves Park,37.77779057034257,-122.40643188357352,6225,Subscriber,35.0,Other,No
+2177,0.28,2019-02-28 18:10:52.037,2019-02-28 18:27:27.988,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,5923,Subscriber,42.0,Female,Yes
+2191,0.5,2019-02-28 17:57:04.259,2019-02-28 18:27:04.800,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,120.0,Mission Dolores Park,37.7614205,-122.4264353,5377,Subscriber,39.0,Other,No
+2192,0.1,2019-02-28 18:21:12.650,2019-02-28 18:27:04.020,58.0,Market St at 10th St,37.776619,-122.417385,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,5137,Subscriber,48.0,Male,No
+2197,0.16,2019-02-28 18:17:04.680,2019-02-28 18:26:51.830,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,1821,Subscriber,31.0,Male,No
+2200,0.36,2019-02-28 18:05:18.777,2019-02-28 18:26:42.416,58.0,Market St at 10th St,37.776619,-122.417385,8.0,The Embarcadero at Vallejo St,37.799953,-122.398525,5373,Subscriber,34.0,Male,No
+2213,0.19,2019-02-28 18:14:16.577,2019-02-28 18:25:47.510,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4337,Subscriber,49.0,Male,No
+2217,0.25,2019-02-28 18:10:25.425,2019-02-28 18:25:26.282,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,58.0,Market St at 10th St,37.776619,-122.417385,6151,Subscriber,25.0,Male,No
+2229,0.2,2019-02-28 18:12:19.753,2019-02-28 18:24:22.437,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,98.0,Valencia St at 16th St,37.765052,-122.4218661,6112,Subscriber,33.0,Male,No
+2240,0.28,2019-02-28 18:06:56.063,2019-02-28 18:23:33.510,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,50.0,2nd St at Townsend St,37.780526,-122.390288,5943,Subscriber,31.0,Male,No
+2253,0.19,2019-02-28 18:11:19.970,2019-02-28 18:23:01.635,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,11.0,Davis St at Jackson St,37.79728,-122.398436,6566,Subscriber,40.0,Female,No
+2257,0.21,2019-02-28 18:09:44.211,2019-02-28 18:22:35.147,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,102.0,Irwin St at 8th St,37.7668828,-122.3995794,6214,Subscriber,52.0,Male,No
+2272,0.15,2019-02-28 18:12:14.601,2019-02-28 18:21:28.784,58.0,Market St at 10th St,37.776619,-122.417385,73.0,Pierce St at Haight St,37.7717933,-122.4337079,5858,Subscriber,32.0,Female,No
+2276,0.28,2019-02-28 18:04:23.436,2019-02-28 18:21:16.864,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,98.0,Valencia St at 16th St,37.765052,-122.4218661,5844,Subscriber,33.0,Male,No
+2287,0.19,2019-02-28 18:09:07.112,2019-02-28 18:20:36.137,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4730,Subscriber,32.0,Male,No
+2309,0.17,2019-02-28 18:09:34.498,2019-02-28 18:19:32.749,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,6124,Subscriber,54.0,Male,No
+2311,0.28,2019-02-28 18:02:22.317,2019-02-28 18:19:27.957,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6297,Customer,32.0,Male,No
+2321,0.09,2019-02-28 18:13:47.364,2019-02-28 18:19:07.380,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,33.0,Golden Gate Ave at Hyde St,37.7816495,-122.4154077,5107,Subscriber,34.0,Female,No
+2322,0.15,2019-02-28 18:10:00.078,2019-02-28 18:18:58.901,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6568,Subscriber,35.0,Male,No
+2325,0.14,2019-02-28 18:10:15.843,2019-02-28 18:18:48.882,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,5962,Subscriber,34.0,Female,No
+2329,0.07,2019-02-28 18:14:28.565,2019-02-28 18:18:43.382,58.0,Market St at 10th St,37.776619,-122.417385,383.0,Golden Gate Ave at Franklin St,37.7807871267462,-122.4219337105751,4466,Subscriber,45.0,Male,No
+2333,0.11,2019-02-28 18:12:04.862,2019-02-28 18:18:34.596,58.0,Market St at 10th St,37.776619,-122.417385,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,5536,Subscriber,29.0,Male,No
+2341,0.14,2019-02-28 18:09:48.484,2019-02-28 18:18:05.379,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,100.0,Bryant St at 15th St,37.7671004,-122.410662,5908,Subscriber,33.0,Male,No
+2349,0.21,2019-02-28 18:05:24.926,2019-02-28 18:17:51.120,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,77.0,11th St at Natoma St,37.7735069,-122.4160402,5342,Customer,33.0,Male,No
+2351,0.1,2019-02-28 18:12:01.623,2019-02-28 18:17:50.020,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5517,Subscriber,40.0,Male,No
+2361,0.12,2019-02-28 18:10:28.853,2019-02-28 18:17:32.031,58.0,Market St at 10th St,37.776619,-122.417385,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,6257,Customer,41.0,Male,No
+2379,0.12,2019-02-28 18:09:14.208,2019-02-28 18:16:37.737,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,61.0,Howard St at 8th St,37.7765126,-122.4113061,6575,Subscriber,38.0,Female,No
+2392,0.13,2019-02-28 18:08:18.553,2019-02-28 18:16:07.083,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,4979,Subscriber,55.0,Male,No
+2407,0.13,2019-02-28 18:07:06.009,2019-02-28 18:15:10.443,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,126.0,Esprit Park,37.7616343,-122.3906477,6471,Subscriber,38.0,Male,No
+2427,0.08,2019-02-28 18:09:45.681,2019-02-28 18:14:17.248,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,4973,Subscriber,28.0,Female,No
+2431,0.16,2019-02-28 18:04:13.299,2019-02-28 18:14:06.033,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5964,Subscriber,45.0,Male,No
+2436,0.05,2019-02-28 18:10:55.511,2019-02-28 18:13:52.618,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,90.0,Townsend St at 7th St,37.771058,-122.402717,6322,Subscriber,32.0,Male,No
+2449,0.2,2019-02-28 18:00:38.947,2019-02-28 18:12:55.758,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5281,Customer,35.0,Male,No
+2462,0.29,2019-02-28 17:55:06.446,2019-02-28 18:12:23.568,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,365.0,Turk St at Fillmore St,37.78045005996349,-122.43194639682768,6296,Subscriber,35.0,Male,No
+2478,0.3,2019-02-28 17:53:47.084,2019-02-28 18:11:48.193,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,31.0,Raymond Kimbell Playground,37.78381270927812,-122.4345588684082,5821,Subscriber,43.0,Male,No
+2503,0.16,2019-02-28 18:00:46.614,2019-02-28 18:10:36.761,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,77.0,11th St at Natoma St,37.7735069,-122.4160402,5801,Subscriber,35.0,Male,No
+2514,0.11,2019-02-28 18:03:04.631,2019-02-28 18:09:39.503,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6581,Subscriber,30.0,Male,No
+2516,0.13,2019-02-28 18:01:55.916,2019-02-28 18:09:30.440,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,5858,Subscriber,23.0,Male,No
+2521,0.14,2019-02-28 18:01:09.723,2019-02-28 18:09:17.110,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,28.0,The Embarcadero at Bryant St,37.78716801474664,-122.38809792330358,2474,Subscriber,41.0,Female,No
+2536,0.46,2019-02-28 17:40:49.354,2019-02-28 18:08:33.996,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,126.0,Esprit Park,37.7616343,-122.3906477,5498,Subscriber,40.0,Female,No
+2556,0.25,2019-02-28 17:52:43.571,2019-02-28 18:07:31.785,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,4466,Customer,37.0,Male,No
+2562,0.3,2019-02-28 17:49:25.747,2019-02-28 18:07:23.870,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,52.0,McAllister St at Baker St,37.7774157,-122.4418376,5849,Subscriber,27.0,Female,No
+2564,0.15,2019-02-28 17:58:31.241,2019-02-28 18:07:21.461,58.0,Market St at 10th St,37.776619,-122.417385,121.0,Mission Playground,37.7592103,-122.4213392,4449,Subscriber,44.0,Male,No
+2585,0.16,2019-02-28 17:56:52.060,2019-02-28 18:06:28.610,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,5948,Subscriber,36.0,Male,No
+2588,8.52,2019-02-28 09:35:13.840,2019-02-28 18:06:20.011,58.0,Market St at 10th St,37.776619,-122.417385,11.0,Davis St at Jackson St,37.79728,-122.398436,5522,Customer,34.0,Male,No
+2589,0.22,2019-02-28 17:53:20.006,2019-02-28 18:06:17.339,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,96.0,Dolores St at 15th St,37.7662102,-122.4266136,6595,Subscriber,27.0,Male,No
+2599,0.19,2019-02-28 17:54:17.524,2019-02-28 18:05:47.183,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,6100,Subscriber,30.0,Male,No
+2608,0.23,2019-02-28 17:51:40.321,2019-02-28 18:05:12.738,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,6543,Subscriber,32.0,Female,No
+2611,0.17,2019-02-28 17:54:49.430,2019-02-28 18:04:50.589,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,6065,Subscriber,37.0,Male,No
+2623,0.18,2019-02-28 17:53:27.481,2019-02-28 18:04:08.556,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6151,Subscriber,32.0,Male,Yes
+2625,0.31,2019-02-28 17:45:41.773,2019-02-28 18:04:02.362,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,70.0,Central Ave at Fell St,37.77331087889723,-122.44429260492323,6553,Subscriber,31.0,Male,No
+2627,0.15,2019-02-28 17:55:07.026,2019-02-28 18:03:56.956,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,6234,Subscriber,34.0,Male,No
+2635,0.19,2019-02-28 17:52:06.276,2019-02-28 18:03:37.423,58.0,Market St at 10th St,37.776619,-122.417385,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,5242,Subscriber,33.0,Male,No
+2659,0.06,2019-02-28 17:59:02.214,2019-02-28 18:02:34.143,58.0,Market St at 10th St,37.776619,-122.417385,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,6228,Subscriber,28.0,Male,No
+2694,0.12,2019-02-28 17:53:29.861,2019-02-28 18:00:48.540,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,27.0,Beale St at Harrison St,37.7880593,-122.3918648,4391,Subscriber,38.0,Male,No
+2708,0.23,2019-02-28 17:46:17.112,2019-02-28 18:00:09.171,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,22.0,Howard St at Beale St,37.789756,-122.394643,6446,Subscriber,41.0,Male,No
+2722,0.05,2019-02-28 17:56:01.352,2019-02-28 17:59:13.454,58.0,Market St at 10th St,37.776619,-122.417385,383.0,Golden Gate Ave at Franklin St,37.7807871267462,-122.4219337105751,5112,Subscriber,28.0,Male,No
+2725,0.35,2019-02-28 17:37:51.190,2019-02-28 17:58:54.906,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,130.0,22nd St Caltrain Station,37.75728840784085,-122.3920512199402,5847,Customer,41.0,Male,No
+2726,0.11,2019-02-28 17:52:14.420,2019-02-28 17:58:51.584,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5833,Subscriber,65.0,Male,No
+2734,0.21,2019-02-28 17:45:38.394,2019-02-28 17:58:27.636,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,5140,Subscriber,32.0,Female,No
+2743,0.2,2019-02-28 17:46:00.670,2019-02-28 17:58:11.828,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,5145,Subscriber,32.0,Female,No
+2752,0.22,2019-02-28 17:44:39.818,2019-02-28 17:57:55.278,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,74.0,Laguna St at Hayes St,37.776434819204745,-122.42624402046204,4930,Subscriber,41.0,Male,No
+2757,0.31,2019-02-28 17:38:49.192,2019-02-28 17:57:29.672,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,355.0,23rd St at Tennessee St,37.755367132158526,-122.38879501819608,6281,Customer,31.0,Male,No
+2769,0.14,2019-02-28 17:48:10.847,2019-02-28 17:56:53.395,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,6306,Subscriber,36.0,Male,No
+2815,0.24,2019-02-28 17:40:23.739,2019-02-28 17:55:01.223,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,86.0,Market St at Dolores St,37.7693053,-122.4268256,6417,Subscriber,30.0,Male,No
+2817,0.28,2019-02-28 17:38:17.607,2019-02-28 17:54:56.652,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,114.0,Rhode Island St at 17th St,37.7644783,-122.4025701,5275,Subscriber,35.0,Male,No
+2843,0.26,2019-02-28 17:38:11.009,2019-02-28 17:54:04.575,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,345.0,Hubbell St at 16th St,37.766482696439496,-122.39827930927277,6470,Subscriber,32.0,Female,No
+2860,0.18,2019-02-28 17:42:43.038,2019-02-28 17:53:31.302,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,80.0,Townsend St at 5th St,37.77523486860597,-122.39743709564208,4351,Subscriber,30.0,Male,No
+2864,0.17,2019-02-28 17:43:08.003,2019-02-28 17:53:19.224,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5821,Subscriber,47.0,Male,No
+2866,0.18,2019-02-28 17:42:42.638,2019-02-28 17:53:14.293,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6100,Subscriber,42.0,Male,No
+2867,0.13,2019-02-28 17:45:33.187,2019-02-28 17:53:11.269,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,27.0,Beale St at Harrison St,37.7880593,-122.3918648,6146,Customer,50.0,Male,No
+2880,0.2,2019-02-28 17:40:30.069,2019-02-28 17:52:33.027,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,54.0,Alamo Square (Steiner St at Fulton St),37.77754677017323,-122.43327409029006,4654,Subscriber,31.0,Female,No
+2881,0.13,2019-02-28 17:44:40.994,2019-02-28 17:52:27.522,58.0,Market St at 10th St,37.776619,-122.417385,84.0,Duboce Park,37.7692005,-122.4338119,5852,Subscriber,42.0,Female,No
+2898,0.13,2019-02-28 17:43:50.454,2019-02-28 17:51:55.283,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,50.0,2nd St at Townsend St,37.780526,-122.390288,6343,Subscriber,57.0,Male,Yes
+2899,0.22,2019-02-28 17:38:27.254,2019-02-28 17:51:54.312,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,6555,Subscriber,26.0,Male,No
+2908,0.24,2019-02-28 17:37:18.044,2019-02-28 17:51:36.259,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,371.0,Lombard St at Columbus Ave,37.80274615250053,-122.41357862949371,5568,Customer,71.0,Male,No
+2918,0.1,2019-02-28 17:44:50.605,2019-02-28 17:50:59.490,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,63.0,Bryant St at 6th St,37.775910222333366,-122.40257500673576,1922,Subscriber,37.0,Male,No
+2931,0.09,2019-02-28 17:45:09.821,2019-02-28 17:50:38.526,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,350.0,8th St at Brannan St,37.771431362921085,-122.40578681230544,6301,Subscriber,34.0,Other,No
+2940,0.21,2019-02-28 17:37:46.880,2019-02-28 17:50:24.737,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,6228,Subscriber,30.0,Female,No
+2953,0.15,2019-02-28 17:40:39.226,2019-02-28 17:49:42.770,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,5561,Subscriber,35.0,Male,No
+2957,0.11,2019-02-28 17:43:01.380,2019-02-28 17:49:40.613,58.0,Market St at 10th St,37.776619,-122.417385,324.0,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769,5902,Subscriber,29.0,Male,No
+2964,0.15,2019-02-28 17:40:36.853,2019-02-28 17:49:19.912,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,4831,Subscriber,32.0,Male,No
+2984,0.2,2019-02-28 17:35:50.980,2019-02-28 17:47:33.462,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,77.0,11th St at Natoma St,37.7735069,-122.4160402,6564,Subscriber,35.0,Female,No
+2988,0.11,2019-02-28 17:40:52.051,2019-02-28 17:47:27.383,58.0,Market St at 10th St,37.776619,-122.417385,90.0,Townsend St at 7th St,37.771058,-122.402717,4610,Subscriber,41.0,Male,Yes
+2994,0.15,2019-02-28 17:38:02.398,2019-02-28 17:47:15.374,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5506,Subscriber,37.0,Male,No
+3020,0.32,2019-02-28 17:26:38.415,2019-02-28 17:45:53.416,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,73.0,Pierce St at Haight St,37.7717933,-122.4337079,4336,Subscriber,34.0,Male,No
+3028,0.04,2019-02-28 17:42:52.291,2019-02-28 17:45:26.904,58.0,Market St at 10th St,37.776619,-122.417385,61.0,Howard St at 8th St,37.7765126,-122.4113061,5972,Subscriber,36.0,Male,No
+3039,0.12,2019-02-28 17:37:41.763,2019-02-28 17:44:59.473,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,323.0,Broadway at Kearny,37.79801364395978,-122.40595042705534,5591,Subscriber,50.0,Male,No
+3048,0.12,2019-02-28 17:37:24.327,2019-02-28 17:44:25.376,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,5801,Subscriber,38.0,Male,No
+3049,0.2,2019-02-28 17:32:14.430,2019-02-28 17:44:25.258,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,345.0,Hubbell St at 16th St,37.766482696439496,-122.39827930927277,6219,Customer,34.0,Male,No
+3052,0.06,2019-02-28 17:40:23.636,2019-02-28 17:44:16.441,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,4944,Subscriber,38.0,Female,No
+3064,0.2,2019-02-28 17:31:59.587,2019-02-28 17:43:51.835,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,364.0,China Basin St at 3rd St,37.7719996,-122.3899698,5274,Subscriber,38.0,Male,No
+3098,0.33,2019-02-28 17:22:33.926,2019-02-28 17:42:19.677,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,373.0,Potrero del Sol Park (25th St at Utah St),37.75179164525661,-122.40521550178528,4939,Subscriber,25.0,Male,No
+3111,0.14,2019-02-28 17:33:00.936,2019-02-28 17:41:41.574,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,5861,Subscriber,37.0,Male,No
+3113,0.11,2019-02-28 17:34:58.749,2019-02-28 17:41:39.686,58.0,Market St at 10th St,37.776619,-122.417385,324.0,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769,5975,Subscriber,23.0,Male,No
+3114,0.43,2019-02-28 17:15:57.789,2019-02-28 17:41:38.450,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,59.0,S Van Ness Ave at Market St,37.774814,-122.418954,4933,Subscriber,35.0,Male,No
+3116,0.11,2019-02-28 17:34:47.185,2019-02-28 17:41:35.165,58.0,Market St at 10th St,37.776619,-122.417385,324.0,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769,4806,Subscriber,23.0,Female,No
+3129,0.09,2019-02-28 17:35:04.439,2019-02-28 17:40:35.594,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,10.0,Washington St at Kearny St,37.79539293725452,-122.4047702550888,6044,Subscriber,37.0,Male,No
+3134,0.08,2019-02-28 17:34:57.307,2019-02-28 17:39:56.137,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,4773,Subscriber,44.0,Male,No
+3158,0.09,2019-02-28 17:33:08.834,2019-02-28 17:38:48.267,58.0,Market St at 10th St,37.776619,-122.417385,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,4736,Subscriber,29.0,Female,No
+3160,0.21,2019-02-28 17:26:12.310,2019-02-28 17:38:34.079,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,55.0,Webster St at Grove St,37.7770527,-122.4295585,5496,Subscriber,31.0,Male,No
+3210,0.06,2019-02-28 17:32:26.739,2019-02-28 17:35:49.577,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,36.0,Folsom St at 3rd St,37.78383,-122.39887,5037,Subscriber,41.0,Male,No
+3231,0.24,2019-02-28 17:20:31.554,2019-02-28 17:34:39.597,58.0,Market St at 10th St,37.776619,-122.417385,323.0,Broadway at Kearny,37.79801364395978,-122.40595042705534,5558,Subscriber,34.0,Female,No
+3256,0.14,2019-02-28 17:24:33.438,2019-02-28 17:33:01.230,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,78.0,Folsom St at 9th St,37.7737172,-122.4116467,4629,Subscriber,40.0,Male,No
+3281,0.07,2019-02-28 17:27:22.235,2019-02-28 17:31:41.064,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,22.0,Howard St at Beale St,37.789756,-122.394643,2063,Subscriber,40.0,Male,No
+3316,0.3,2019-02-28 17:11:49.264,2019-02-28 17:29:58.137,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,375.0,Grove St at Masonic Ave,37.77483629413345,-122.44654566049576,6516,Subscriber,34.0,Female,No
+3322,0.21,2019-02-28 17:16:37.506,2019-02-28 17:29:22.928,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,6223,Customer,47.0,Male,No
+3325,0.18,2019-02-28 17:18:14.867,2019-02-28 17:29:13.686,58.0,Market St at 10th St,37.776619,-122.417385,10.0,Washington St at Kearny St,37.79539293725452,-122.4047702550888,6488,Subscriber,29.0,Male,No
+3340,0.07,2019-02-28 17:24:30.293,2019-02-28 17:28:25.481,58.0,Market St at 10th St,37.776619,-122.417385,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,6504,Subscriber,40.0,Male,No
+3345,0.07,2019-02-28 17:23:39.918,2019-02-28 17:27:44.102,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,36.0,Folsom St at 3rd St,37.78383,-122.39887,4624,Subscriber,49.0,Male,No
+3350,0.14,2019-02-28 17:18:58.587,2019-02-28 17:27:20.697,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6134,Subscriber,33.0,Male,No
+3352,0.12,2019-02-28 17:19:45.489,2019-02-28 17:27:06.021,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4817,Subscriber,32.0,Male,No
+3354,0.35,2019-02-28 17:05:40.564,2019-02-28 17:26:53.268,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,2474,Customer,49.0,Female,No
+3365,0.19,2019-02-28 17:14:50.723,2019-02-28 17:26:13.132,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,6577,Subscriber,32.0,Male,No
+3373,0.13,2019-02-28 17:18:06.862,2019-02-28 17:26:01.096,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,61.0,Howard St at 8th St,37.7765126,-122.4113061,5941,Subscriber,38.0,Male,No
+3376,0.29,2019-02-28 17:08:44.630,2019-02-28 17:25:56.964,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,97.0,14th St at Mission St,37.7682646,-122.4201102,5767,Subscriber,32.0,Male,No
+3386,0.09,2019-02-28 17:20:02.278,2019-02-28 17:25:30.516,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,4831,Subscriber,32.0,Male,Yes
+3390,0.15,2019-02-28 17:16:37.866,2019-02-28 17:25:23.773,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,81.0,Berry St at 4th St,37.77588,-122.39317,4941,Subscriber,31.0,Male,No
+3413,0.16,2019-02-28 17:14:55.336,2019-02-28 17:24:17.218,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5842,Subscriber,29.0,Female,No
+3429,0.1,2019-02-28 17:17:49.096,2019-02-28 17:23:37.212,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,6.0,The Embarcadero at Sansome St,37.80477,-122.403234,5494,Subscriber,30.0,Male,No
+3433,0.16,2019-02-28 17:13:50.473,2019-02-28 17:23:29.434,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5756,Subscriber,40.0,Male,No
+3450,0.32,2019-02-28 17:03:37.045,2019-02-28 17:22:39.977,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,72.0,Page St at Scott St,37.772406,-122.4356498,5421,Subscriber,48.0,Female,No
+3454,0.16,2019-02-28 17:13:06.260,2019-02-28 17:22:33.442,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,6124,Subscriber,32.0,Male,No
+3468,0.16,2019-02-28 17:12:35.474,2019-02-28 17:21:59.687,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,4943,Subscriber,37.0,Male,No
+3476,0.17,2019-02-28 17:11:10.859,2019-02-28 17:21:34.500,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,5358,Subscriber,30.0,Male,No
+3494,0.17,2019-02-28 17:10:19.527,2019-02-28 17:20:25.754,58.0,Market St at 10th St,37.776619,-122.417385,90.0,Townsend St at 7th St,37.771058,-122.402717,6581,Customer,34.0,Male,No
+3501,0.12,2019-02-28 17:13:06.047,2019-02-28 17:20:06.357,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,50.0,2nd St at Townsend St,37.780526,-122.390288,5242,Subscriber,36.0,Male,No
+3505,0.15,2019-02-28 17:11:09.785,2019-02-28 17:19:56.708,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5140,Subscriber,37.0,Male,No
+3522,0.26,2019-02-28 17:02:43.082,2019-02-28 17:18:36.140,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,369.0,Hyde St at Post St,37.78734902316596,-122.41665109992026,5727,Subscriber,42.0,Female,No
+3527,0.23,2019-02-28 17:04:32.997,2019-02-28 17:18:20.473,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,4969,Subscriber,36.0,Male,No
+3617,0.22,2019-02-28 17:00:36.362,2019-02-28 17:13:36.727,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,5314,Customer,26.0,Female,No
+3618,0.16,2019-02-28 17:03:44.910,2019-02-28 17:13:33.302,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4933,Subscriber,36.0,Male,No
+3623,0.09,2019-02-28 17:07:48.812,2019-02-28 17:13:14.049,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,6086,Subscriber,31.0,Other,No
+3624,0.12,2019-02-28 17:05:57.853,2019-02-28 17:13:12.817,58.0,Market St at 10th St,37.776619,-122.417385,95.0,Sanchez St at 15th St,37.7662185,-122.4310597,6491,Subscriber,31.0,Male,No
+3632,0.13,2019-02-28 17:04:40.361,2019-02-28 17:12:45.341,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,24.0,Spear St at Folsom St,37.7896767,-122.3904285,5283,Subscriber,37.0,Male,No
+3635,0.41,2019-02-28 16:48:05.805,2019-02-28 17:12:36.559,58.0,Market St at 10th St,37.776619,-122.417385,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,4600,Customer,35.0,Male,No
+3664,0.13,2019-02-28 17:03:22.336,2019-02-28 17:11:00.990,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,9.0,Broadway at Battery St,37.79857210846256,-122.40086898207666,4730,Subscriber,59.0,Male,No
+3671,0.63,2019-02-28 16:32:33.303,2019-02-28 17:10:37.518,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,4739,Customer,49.0,Female,No
+3672,0.63,2019-02-28 16:32:34.825,2019-02-28 17:10:35.406,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,5878,Customer,49.0,Female,No
+3675,0.63,2019-02-28 16:32:50.770,2019-02-28 17:10:32.855,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,5790,Customer,49.0,Female,No
+3679,0.28,2019-02-28 16:53:05.801,2019-02-28 17:10:12.343,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,129.0,Harrison St at 20th St,37.758862,-122.412544,2976,Subscriber,52.0,Male,No
+3691,0.59,2019-02-28 16:34:06.227,2019-02-28 17:09:25.751,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,6249,Subscriber,38.0,Female,No
+3693,0.13,2019-02-28 17:01:25.817,2019-02-28 17:09:21.910,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,6581,Subscriber,22.0,Male,No
+3703,0.23,2019-02-28 16:55:01.498,2019-02-28 17:08:56.259,58.0,Market St at 10th St,37.776619,-122.417385,16.0,Steuart St at Market St,37.79413,-122.39443,6168,Subscriber,33.0,Male,No
+3713,0.16,2019-02-28 16:58:38.168,2019-02-28 17:08:18.430,58.0,Market St at 10th St,37.776619,-122.417385,4.0,Cyril Magnin St at Ellis St,37.78588062694133,-122.4089150084319,3358,Subscriber,38.0,Male,No
+3714,0.1,2019-02-28 17:02:32.594,2019-02-28 17:08:15.047,58.0,Market St at 10th St,37.776619,-122.417385,113.0,Franklin Square,37.764555,-122.410345,2188,Subscriber,31.0,Male,No
+3721,0.14,2019-02-28 16:59:22.811,2019-02-28 17:07:58.092,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,4962,Subscriber,38.0,Male,No
+3745,0.12,2019-02-28 16:59:23.763,2019-02-28 17:06:47.588,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5312,Subscriber,53.0,Male,No
+3766,0.23,2019-02-28 16:51:42.257,2019-02-28 17:05:32.999,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,86.0,Market St at Dolores St,37.7693053,-122.4268256,6224,Subscriber,33.0,Male,No
+3785,0.15,2019-02-28 16:55:03.297,2019-02-28 17:03:55.173,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,4567,Customer,44.0,Male,No
+3841,0.18,2019-02-28 16:49:10.486,2019-02-28 17:00:13.946,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,2072,Subscriber,39.0,Male,No
+3843,0.13,2019-02-28 16:52:05.013,2019-02-28 17:00:07.916,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5253,Subscriber,34.0,Male,No
+3850,0.1,2019-02-28 16:53:19.434,2019-02-28 16:59:34.634,58.0,Market St at 10th St,37.776619,-122.417385,113.0,Franklin Square,37.764555,-122.410345,6535,Subscriber,32.0,Male,No
+3860,0.18,2019-02-28 16:47:52.311,2019-02-28 16:58:34.014,58.0,Market St at 10th St,37.776619,-122.417385,141.0,Valencia St at Cesar Chavez St,37.7479981,-122.4202187,6507,Subscriber,37.0,Male,No
+3881,0.12,2019-02-28 16:49:35.906,2019-02-28 16:56:34.853,58.0,Market St at 10th St,37.776619,-122.417385,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,449,Subscriber,29.0,Female,No
+3902,0.15,2019-02-28 16:45:48.679,2019-02-28 16:55:02.327,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,370.0,Jones St at Post St,37.7873267660624,-122.41327822208405,5017,Subscriber,51.0,Male,No
+3917,0.18,2019-02-28 16:43:00.599,2019-02-28 16:53:43.262,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,5065,Subscriber,31.0,Female,No
+3925,0.19,2019-02-28 16:41:39.604,2019-02-28 16:52:52.629,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,104.0,4th St at 16th St,37.76704457969368,-122.39083349704742,6505,Subscriber,39.0,Male,No
+3929,0.17,2019-02-28 16:42:02.050,2019-02-28 16:52:20.888,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4962,Subscriber,32.0,Female,No
+3932,0.09,2019-02-28 16:46:48.562,2019-02-28 16:51:59.401,58.0,Market St at 10th St,37.776619,-122.417385,86.0,Market St at Dolores St,37.7693053,-122.4268256,5564,Subscriber,51.0,Male,No
+3946,0.19,2019-02-28 16:39:37.462,2019-02-28 16:51:07.546,58.0,Market St at 10th St,37.776619,-122.417385,144.0,Precita Park,37.7472996,-122.4114029,4813,Subscriber,48.0,Other,No
+3966,0.06,2019-02-28 16:45:11.480,2019-02-28 16:48:36.560,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,4567,Subscriber,44.0,Male,No
+3972,0.09,2019-02-28 16:43:00.071,2019-02-28 16:48:10.888,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,25.0,Howard St at 2nd St,37.787521780456245,-122.39740490913393,5205,Subscriber,51.0,Male,No
+3975,0.15,2019-02-28 16:38:57.331,2019-02-28 16:48:05.392,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,50.0,2nd St at Townsend St,37.780526,-122.390288,5364,Subscriber,34.0,Female,No
+3982,0.11,2019-02-28 16:40:36.059,2019-02-28 16:47:22.132,58.0,Market St at 10th St,37.776619,-122.417385,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,4821,Subscriber,54.0,Female,No
+3999,0.12,2019-02-28 16:39:20.326,2019-02-28 16:46:34.614,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,62.0,Victoria Manalo Draves Park,37.77779057034257,-122.40643188357352,4716,Subscriber,28.0,Male,No
+4014,0.08,2019-02-28 16:40:04.859,2019-02-28 16:44:56.170,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,5527,Subscriber,71.0,Male,No
+4016,0.2,2019-02-28 16:32:37.066,2019-02-28 16:44:41.655,58.0,Market St at 10th St,37.776619,-122.417385,71.0,Broderick St at Oak St,37.7730627,-122.4390777,5166,Subscriber,46.0,Male,No
+4047,0.09,2019-02-28 16:36:47.627,2019-02-28 16:41:57.408,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,36.0,Folsom St at 3rd St,37.78383,-122.39887,6312,Subscriber,31.0,Other,No
+4052,0.13,2019-02-28 16:33:10.942,2019-02-28 16:41:00.124,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,6222,Subscriber,45.0,Male,No
+4074,0.12,2019-02-28 16:31:12.275,2019-02-28 16:38:19.970,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,6133,Subscriber,43.0,Male,No
+4077,0.11,2019-02-28 16:31:11.587,2019-02-28 16:38:02.112,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,34.0,Father Alfred E Boeddeker Park,37.7839879,-122.412408,4600,Subscriber,67.0,Male,Yes
+4078,0.24,2019-02-28 16:23:18.241,2019-02-28 16:37:49.116,58.0,Market St at 10th St,37.776619,-122.417385,13.0,Commercial St at Montgomery St,37.794231,-122.402923,6491,Subscriber,30.0,Female,No
+4109,0.25,2019-02-28 16:19:37.753,2019-02-28 16:34:25.265,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,73.0,Pierce St at Haight St,37.7717933,-122.4337079,6293,Subscriber,32.0,Male,No
+4112,0.33,2019-02-28 16:14:10.682,2019-02-28 16:34:09.460,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,10.0,Washington St at Kearny St,37.79539293725452,-122.4047702550888,5815,Subscriber,48.0,Male,Yes
+4113,0.34,2019-02-28 16:13:29.813,2019-02-28 16:34:04.127,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,10.0,Washington St at Kearny St,37.79539293725452,-122.4047702550888,4931,Subscriber,42.0,Male,Yes
+4122,0.1,2019-02-28 16:27:12.165,2019-02-28 16:33:07.797,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,16.0,Steuart St at Market St,37.79413,-122.39443,6335,Subscriber,50.0,Male,No
+4142,0.14,2019-02-28 16:22:29.158,2019-02-28 16:30:50.122,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5825,Subscriber,31.0,Male,No
+4145,0.17,2019-02-28 16:20:21.724,2019-02-28 16:30:40.205,58.0,Market St at 10th St,37.776619,-122.417385,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5234,Customer,35.0,Male,No
+4157,0.18,2019-02-28 16:18:36.368,2019-02-28 16:29:32.081,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,78.0,Folsom St at 9th St,37.7737172,-122.4116467,5774,Subscriber,42.0,Male,No
+4212,0.23,2019-02-28 16:10:38.778,2019-02-28 16:24:17.385,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,114.0,Rhode Island St at 17th St,37.7644783,-122.4025701,6141,Subscriber,36.0,Male,No
+4232,0.3,2019-02-28 16:04:21.302,2019-02-28 16:22:16.262,58.0,Market St at 10th St,37.776619,-122.417385,28.0,The Embarcadero at Bryant St,37.78716801474664,-122.38809792330358,6473,Subscriber,57.0,Male,Yes
+4246,0.05,2019-02-28 16:17:50.320,2019-02-28 16:20:51.127,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,6597,Subscriber,47.0,Male,No
+4250,0.15,2019-02-28 16:11:48.272,2019-02-28 16:20:35.192,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,4739,Subscriber,54.0,Male,No
+4258,0.19,2019-02-28 16:08:46.514,2019-02-28 16:19:57.387,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,4821,Subscriber,24.0,Male,No
+4259,0.08,2019-02-28 16:15:08.885,2019-02-28 16:19:53.325,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,28.0,The Embarcadero at Bryant St,37.78716801474664,-122.38809792330358,5380,Subscriber,43.0,Male,No
+4262,0.25,2019-02-28 16:04:47.684,2019-02-28 16:19:37.339,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5056,Subscriber,33.0,Female,No
+4263,0.18,2019-02-28 16:08:58.411,2019-02-28 16:19:33.898,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5137,Subscriber,63.0,Other,No
+4273,0.51,2019-02-28 15:48:20.834,2019-02-28 16:18:55.468,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,371.0,Lombard St at Columbus Ave,37.80274615250053,-122.41357862949371,2516,Customer,33.0,Male,No
+4326,0.16,2019-02-28 16:04:22.394,2019-02-28 16:14:17.118,58.0,Market St at 10th St,37.776619,-122.417385,36.0,Folsom St at 3rd St,37.78383,-122.39887,5540,Subscriber,46.0,Male,No
+4339,0.12,2019-02-28 16:06:23.012,2019-02-28 16:13:28.547,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,43.0,San Francisco Public Library (Grove St at Hyde St),37.7787677,-122.4159292,5406,Subscriber,51.0,Male,No
+4382,0.14,2019-02-28 16:01:38.988,2019-02-28 16:09:47.082,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,91.0,Berry St at King St,37.771762110313176,-122.39843755960464,6531,Subscriber,31.0,Female,No
+4412,0.12,2019-02-28 15:58:29.626,2019-02-28 16:05:59.980,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,4947,Customer,46.0,Male,No
+4422,0.24,2019-02-28 15:51:09.948,2019-02-28 16:05:24.271,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,76.0,McCoppin St at Valencia St,37.77166246221617,-122.42242321372034,2429,Subscriber,39.0,Male,No
+4423,0.13,2019-02-28 15:57:50.285,2019-02-28 16:05:21.565,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,323.0,Broadway at Kearny,37.79801364395978,-122.40595042705534,4600,Subscriber,37.0,Male,No
+4460,0.1,2019-02-28 15:53:31.711,2019-02-28 15:59:45.297,58.0,Market St at 10th St,37.776619,-122.417385,86.0,Market St at Dolores St,37.7693053,-122.4268256,5368,Subscriber,28.0,Male,No
+4466,0.11,2019-02-28 15:51:31.228,2019-02-28 15:58:10.459,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,67.0,San Francisco Caltrain Station 2  (Townsend St at 4th St),37.7766392,-122.3955263,5481,Subscriber,54.0,Male,No
+4470,0.16,2019-02-28 15:48:04.203,2019-02-28 15:57:58.845,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,16.0,Steuart St at Market St,37.79413,-122.39443,5971,Customer,49.0,Female,No
+4471,0.16,2019-02-28 15:48:01.311,2019-02-28 15:57:53.580,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,16.0,Steuart St at Market St,37.79413,-122.39443,6291,Customer,49.0,Female,No
+4472,0.15,2019-02-28 15:48:52.784,2019-02-28 15:57:49.029,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,16.0,Steuart St at Market St,37.79413,-122.39443,4655,Customer,49.0,Female,No
+4474,0.15,2019-02-28 15:48:21.062,2019-02-28 15:57:32.688,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,16.0,Steuart St at Market St,37.79413,-122.39443,4929,Subscriber,38.0,Female,No
+4486,0.1,2019-02-28 15:49:25.662,2019-02-28 15:55:31.476,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,61.0,Howard St at 8th St,37.7765126,-122.4113061,6338,Subscriber,39.0,Male,No
+4492,0.21,2019-02-28 15:41:48.955,2019-02-28 15:54:33.361,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,5825,Subscriber,24.0,Male,No
+4496,0.42,2019-02-28 15:28:39.947,2019-02-28 15:53:52.678,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,146.0,30th St at San Jose Ave,37.7423139,-122.4231805,1388,Subscriber,60.0,Male,No
+4499,0.33,2019-02-28 15:33:49.510,2019-02-28 15:53:43.685,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5876,Subscriber,24.0,Male,No
+4500,0.36,2019-02-28 15:32:14.159,2019-02-28 15:53:43.612,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,60.0,8th St at Ringold St,37.77452040113685,-122.4094493687153,5343,Subscriber,24.0,Female,No
+4531,0.2,2019-02-28 15:36:14.554,2019-02-28 15:48:23.708,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,6310,Subscriber,45.0,Male,No
+4596,0.07,2019-02-28 15:34:12.245,2019-02-28 15:38:29.022,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,36.0,Folsom St at 3rd St,37.78383,-122.39887,1217,Subscriber,30.0,Male,No
+4628,0.39,2019-02-28 15:09:36.132,2019-02-28 15:32:49.873,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,118.0,Eureka Valley Recreation Center,37.7591769,-122.4369431,6051,Subscriber,65.0,Male,No
+4635,0.18,2019-02-28 15:19:47.281,2019-02-28 15:30:48.414,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5458,Customer,46.0,Male,No
+4638,0.24,2019-02-28 15:15:47.636,2019-02-28 15:30:16.034,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,129.0,Harrison St at 20th St,37.758862,-122.412544,6552,Subscriber,40.0,Male,No
+4646,0.13,2019-02-28 15:21:06.155,2019-02-28 15:29:00.490,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5371,Subscriber,50.0,Male,No
+4656,0.05,2019-02-28 15:24:04.666,2019-02-28 15:27:07.797,58.0,Market St at 10th St,37.776619,-122.417385,42.0,San Francisco City Hall (Polk St at Grove St),37.77865,-122.41823,3639,Subscriber,30.0,Male,No
+4708,1.16,2019-02-28 14:09:24.397,2019-02-28 15:18:44.295,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,324.0,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769,5271,Customer,64.0,Female,No
+4720,0.39,2019-02-28 14:53:16.379,2019-02-28 15:16:44.498,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,52.0,McAllister St at Baker St,37.7774157,-122.4418376,5138,Subscriber,45.0,Female,No
+4733,0.16,2019-02-28 15:05:54.853,2019-02-28 15:15:23.193,58.0,Market St at 10th St,37.776619,-122.417385,55.0,Webster St at Grove St,37.7770527,-122.4295585,5871,Customer,34.0,Male,No
+4750,0.03,2019-02-28 15:09:46.502,2019-02-28 15:11:25.447,58.0,Market St at 10th St,37.776619,-122.417385,59.0,S Van Ness Ave at Market St,37.774814,-122.418954,5842,Subscriber,30.0,Male,No
+4781,0.08,2019-02-28 15:02:02.609,2019-02-28 15:06:56.027,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,343.0,Bryant St at 2nd St,37.783171989315306,-122.39357203245164,4923,Subscriber,55.0,Male,No
+4783,0.22,2019-02-28 14:53:11.643,2019-02-28 15:06:32.851,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,5246,Subscriber,67.0,Male,No
+4788,0.1,2019-02-28 14:59:48.674,2019-02-28 15:05:38.558,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,61.0,Howard St at 8th St,37.7765126,-122.4113061,4436,Subscriber,62.0,Male,No
+4792,0.12,2019-02-28 14:57:10.969,2019-02-28 15:04:36.132,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,5407,Subscriber,30.0,Male,No
+4810,0.07,2019-02-28 14:56:31.751,2019-02-28 15:00:46.444,58.0,Market St at 10th St,37.776619,-122.417385,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,6488,Subscriber,26.0,Male,No
+4814,0.09,2019-02-28 14:54:44.600,2019-02-28 15:00:24.359,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,323.0,Broadway at Kearny,37.79801364395978,-122.40595042705534,4979,Subscriber,33.0,Male,Yes
+4817,0.05,2019-02-28 14:56:25.652,2019-02-28 14:59:41.511,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,64.0,5th St at Brannan St,37.7767539,-122.3990176,6137,Subscriber,72.0,Male,No
+4853,0.25,2019-02-28 14:39:43.896,2019-02-28 14:54:35.644,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,356.0,Valencia St at Clinton Park,37.769188178104585,-122.42228507995604,6103,Subscriber,34.0,Male,No
+4856,0.05,2019-02-28 14:51:18.813,2019-02-28 14:54:04.421,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,81.0,Berry St at 4th St,37.77588,-122.39317,1281,Subscriber,27.0,Male,Yes
+4907,4.89,2019-02-28 09:51:14.026,2019-02-28 14:44:34.259,58.0,Market St at 10th St,37.776619,-122.417385,15.0,San Francisco Ferry Building (Harry Bridges Plaza),37.795392,-122.394203,2908,Subscriber,60.0,Male,No
+4925,0.14,2019-02-28 14:33:40.236,2019-02-28 14:42:20.576,58.0,Market St at 10th St,37.776619,-122.417385,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,5581,Customer,55.0,Male,No
+4931,0.16,2019-02-28 14:31:09.379,2019-02-28 14:40:52.814,58.0,Market St at 10th St,37.776619,-122.417385,4.0,Cyril Magnin St at Ellis St,37.78588062694133,-122.4089150084319,5801,Subscriber,38.0,Male,Yes
+4932,0.07,2019-02-28 14:36:12.075,2019-02-28 14:40:21.485,58.0,Market St at 10th St,37.776619,-122.417385,41.0,Golden Gate Ave at Polk St,37.78127,-122.41874,5341,Subscriber,23.0,Male,No
+4936,0.07,2019-02-28 14:35:39.077,2019-02-28 14:39:36.987,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,20.0,Mechanics Monument Plaza (Market St at Bush St),37.7913,-122.399051,4370,Subscriber,55.0,Male,No
+4941,0.2,2019-02-28 14:25:51.656,2019-02-28 14:38:07.067,58.0,Market St at 10th St,37.776619,-122.417385,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,5825,Subscriber,35.0,Other,No
+4957,0.49,2019-02-28 14:06:32.304,2019-02-28 14:35:43.638,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,142.0,Guerrero Park,37.745738796183325,-122.42214024066924,6477,Subscriber,41.0,Male,No
+4974,0.12,2019-02-28 14:25:49.840,2019-02-28 14:32:51.868,58.0,Market St at 10th St,37.776619,-122.417385,3.0,Powell St BART Station (Market St at 4th St),37.78637526861584,-122.40490436553954,4730,Subscriber,39.0,Female,No
+5022,0.21,2019-02-28 14:12:00.585,2019-02-28 14:24:36.845,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,56.0,Koshland Park,37.77341396997343,-122.427316904068,5557,Subscriber,38.0,Male,No
+5052,0.13,2019-02-28 14:11:21.020,2019-02-28 14:19:21.384,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,26.0,1st St at Folsom St,37.78729,-122.39438,5325,Subscriber,32.0,Male,No
+5060,0.13,2019-02-28 14:09:26.775,2019-02-28 14:17:15.973,58.0,Market St at 10th St,37.776619,-122.417385,85.0,Church St at Duboce Ave,37.7700831,-122.4291557,3688,Subscriber,59.0,Female,No
+5064,0.12,2019-02-28 14:08:49.539,2019-02-28 14:16:15.028,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,4730,Subscriber,40.0,Male,No
+5070,0.19,2019-02-28 14:04:12.079,2019-02-28 14:15:21.062,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,63.0,Bryant St at 6th St,37.775910222333366,-122.40257500673576,6389,Customer,37.0,Male,No
+5075,0.16,2019-02-28 14:04:59.769,2019-02-28 14:14:31.604,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,58.0,Market St at 10th St,37.776619,-122.417385,5825,Subscriber,22.0,Female,No
+5076,0.07,2019-02-28 14:10:17.933,2019-02-28 14:14:23.202,58.0,Market St at 10th St,37.776619,-122.417385,44.0,Civic Center/UN Plaza BART Station (Market St at McAllister St),37.7810737,-122.4117382,2741,Subscriber,46.0,Female,No
+5095,0.21,2019-02-28 13:57:45.560,2019-02-28 14:10:25.051,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,30.0,San Francisco Caltrain (Townsend St at 4th St),37.776598,-122.395282,5558,Subscriber,29.0,Female,No
+5101,0.19,2019-02-28 13:57:49.965,2019-02-28 14:09:31.903,58.0,Market St at 10th St,37.776619,-122.417385,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,5458,Subscriber,23.0,Female,No
+5103,0.17,2019-02-28 13:59:05.049,2019-02-28 14:09:10.748,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,324.0,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769,4824,Subscriber,50.0,Female,No
+5132,0.07,2019-02-28 14:01:20.892,2019-02-28 14:05:18.683,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,14.0,Clay St at Battery St,37.795001,-122.39997,6106,Subscriber,39.0,Male,No
+5146,0.19,2019-02-28 13:51:28.486,2019-02-28 14:02:55.399,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,93.0,4th St at Mission Bay Blvd S,37.7704074,-122.3911984,6188,Subscriber,32.0,Female,No
+5171,0.06,2019-02-28 13:55:09.743,2019-02-28 13:58:53.480,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,20.0,Mechanics Monument Plaza (Market St at Bush St),37.7913,-122.399051,6095,Subscriber,50.0,Male,No
+5189,0.27,2019-02-28 13:40:58.301,2019-02-28 13:56:57.089,58.0,Market St at 10th St,37.776619,-122.417385,27.0,Beale St at Harrison St,37.7880593,-122.3918648,2664,Subscriber,39.0,Male,No
+5224,0.06,2019-02-28 13:44:56.387,2019-02-28 13:48:30.547,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,5382,Subscriber,50.0,Female,No
+5227,0.08,2019-02-28 13:43:06.613,2019-02-28 13:48:01.025,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,27.0,Beale St at Harrison St,37.7880593,-122.3918648,5827,Subscriber,43.0,Male,No
+5228,0.12,2019-02-28 13:40:26.409,2019-02-28 13:47:57.000,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,58.0,Market St at 10th St,37.776619,-122.417385,5458,Subscriber,39.0,Female,No
+5229,0.2,2019-02-28 13:35:46.176,2019-02-28 13:47:56.252,58.0,Market St at 10th St,37.776619,-122.417385,81.0,Berry St at 4th St,37.77588,-122.39317,5526,Subscriber,40.0,Male,No
+5231,0.15,2019-02-28 13:38:44.689,2019-02-28 13:47:49.962,58.0,Market St at 10th St,37.776619,-122.417385,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,5923,Subscriber,30.0,Male,No
+5247,0.04,2019-02-28 13:43:44.050,2019-02-28 13:46:18.179,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,6139,Subscriber,60.0,Male,No
+5261,0.18,2019-02-28 13:32:04.142,2019-02-28 13:42:34.800,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,5133,Subscriber,38.0,Female,No
+5273,0.16,2019-02-28 13:30:36.902,2019-02-28 13:40:31.241,58.0,Market St at 10th St,37.776619,-122.417385,64.0,5th St at Brannan St,37.7767539,-122.3990176,4973,Subscriber,24.0,Male,No
+5275,0.09,2019-02-28 13:34:55.265,2019-02-28 13:40:12.782,21.0,"Montgomery St BART Station 
+(Market St at 2nd St)",37.7896254,-122.400811,27.0,Beale St at Harrison St,37.7880593,-122.3918648,5237,Subscriber,51.0,Male,No
+5276,0.23,2019-02-28 13:25:31.205,2019-02-28 13:39:36.197,67.0,"San Francisco Caltrain Station 2  
+(Townsend St at 4th St)",37.7766392,-122.3955263,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,6568,Customer,29.0,Female,No
+5283,0.07,2019-02-28 13:33:51.382,2019-02-28 13:37:52.516,15.0,"San Francisco Ferry Building 
+(Harry Bridges Plaza)",37.795392,-122.394203,23.0,The Embarcadero at Steuart St,37.791464,-122.391034,5382,Subscriber,50.0,Female,No
+5287,0.22,2019-02-28 13:23:24.397,2019-02-28 13:36:55.009,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,5.0,Powell St BART Station (Market St at 5th St),37.78389935708493,-122.4084448814392,4644,Subscriber,55.0,Male,Yes
+5293,0.04,2019-02-28 13:33:54.312,2019-02-28 13:36:36.513,3.0,"Powell St BART Station 
+(Market St at 4th St)",37.78637526861584,-122.40490436553954,21.0,Montgomery St BART Station (Market St at 2nd St),37.7896254,-122.400811,5804,Subscriber,42.0,Male,No
+5303,1.09,2019-02-28 12:28:09.575,2019-02-28 13:33:34.742,58.0,Market St at 10th St,37.776619,-122.417385,72.0,Page St at Scott St,37.772406,-122.4356498,5000,Subscriber,33.0,Male,No
+5309,0.14,2019-02-28 13:24:29.371,2019-02-28 13:32:39.940,58.0,Market St at 10th St,37.776619,-122.417385,368.0,Myrtle St at Polk St,37.78543382786823,-122.41962164640428,2566,Subscriber,50.0,Male,No
